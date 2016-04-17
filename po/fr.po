@@ -126,7 +126,7 @@ msgid "Register"
 msgstr "S'enregistrer"
 
 msgid "Double-check that this is your number! We're about to verify it with an SMS."
-msgstr "Vérifiez qu'il s’agit bien de votre numéro! Nous allons envoyer un SMS de vérification."
+msgstr "Vérifiez qu'il s’agit bien de votre numéro ! Nous allons envoyer un SMS de vérification."
 
 msgid "Cancel"
 msgstr "Annuler"
@@ -153,7 +153,7 @@ msgid "Submit debug log"
 msgstr "Envoyer un rapport de débogage"
 
 msgid "Success!"
-msgstr "Réussite !"
+msgstr "Réussite !"
 
 msgid "Verifying number"
 msgstr "Vérification du numéro"
@@ -162,7 +162,7 @@ msgid "Signal will now automatically verify your number with a confirmation SMS 
 msgstr "Signal va maintenant automatiquement vérifier votre numéro à l'aide d'un SMS de confirmation."
 
 msgid "Waiting for SMS verification..."
-msgstr "Attente du SMS vérification..."
+msgstr "Attente de la vérification du SMS..."
 
 msgid "Sent"
 msgstr "Envoyé"
